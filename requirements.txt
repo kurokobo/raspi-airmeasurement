@@ -1,0 +1,2 @@
+python-dotenv
+paho_mqtt
