@@ -1,2 +1,4 @@
 python-dotenv
 paho_mqtt
+pyserial
+smbus2
